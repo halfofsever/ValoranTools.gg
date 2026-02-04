@@ -10,6 +10,9 @@
 * **Official Website / 官方网站**: [**https://valorantools.gg**](https://valorantools.gg)
 * **Join Community / 加入社区**: [**https://discord.gg/unvk4DSp**](https://discord.gg/unvk4DSp)
 
+<img width="1280" height="674" alt="b733dff336811b5f6fbf951281ae232b" src="https://github.com/user-attachments/assets/f5304868-4a8b-4c22-9ab8-71a41bcf83b3" />
+
+
 ---
 
 ## ✨ Core Features / 核心功能
