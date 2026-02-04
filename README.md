@@ -23,17 +23,20 @@ Check your personal skin offers and night market bundles without launching the g
 
 无需启动游戏，随时随地在线查看您的每日皮肤商店与夜市优惠。
 
-* **📍 Tactical Lineups (Spots) / 全量战术点位**
+* **📍 Tactical Lineups (Spots) (Under Development) / 全量战术点位（还在开发中）**
 
 High-definition map lineups for Sova, Viper, and Brimstone, curated by high-rank players.
 
 由高分段玩家精选的苏法、蝰蛇、炼金高清地图烟位与技能点位教学。
 
-* **💡 Pro Tips & Tricks / 进阶实战技巧**
+* **💡 Pro Tips & Tricks  (Under Development) / 进阶实战技巧（还在开发中）**
 
 Daily updates on micro-mechanics and map meta to give you the competitive edge.
 
 每日更新微操技巧与地图版本分析，助您在竞技场中获得信息优势。
+
+<img width="1709" height="904" alt="0354938348ed61924a1b9a9c3eac0c92" src="https://github.com/user-attachments/assets/5d99db83-b432-468f-b0d8-65c33cbb3cc9" />
+
 
 ---
 
