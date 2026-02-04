@@ -14,19 +14,19 @@
 
 ## ✨ Core Features / 核心功能
 
-**🛒 Daily Shop Tracker / 实时商店追踪**
+* **🛒 Daily Shop Tracker / 实时商店追踪**
 
 Check your personal skin offers and night market bundles without launching the game.
 
 无需启动游戏，随时随地在线查看您的每日皮肤商店与夜市优惠。
 
-**📍 Tactical Lineups (Spots) / 全量战术点位**
+* **📍 Tactical Lineups (Spots) / 全量战术点位**
 
 High-definition map lineups for Sova, Viper, and Brimstone, curated by high-rank players.
 
 由高分段玩家精选的苏法、蝰蛇、炼金高清地图烟位与技能点位教学。
 
-**💡 Pro Tips & Tricks / 进阶实战技巧**
+* **💡 Pro Tips & Tricks / 进阶实战技巧**
 
 Daily updates on micro-mechanics and map meta to give you the competitive edge.
 
@@ -40,19 +40,21 @@ Daily updates on micro-mechanics and map meta to give you the competitive edge.
 
 **账号安全是我们的首要关注。ValoranTools.gg 采用“安全至上”的架构设计。**
 
-**Official RSO Integration / 官方 RSO 集成**
+
+
+* **Official RSO Integration / 官方 RSO 集成**
 
 We strictly use Riot Sign-On (RSO). We NEVER see, collect, or store your Riot password.
 
 我们严格使用官方 RSO 登录，绝不接触、收集或存储您的账号密码。
 
-**Zero-Risk Compliance / 零风险合规性**
+* **Zero-Risk Compliance / 零风险合规性**
 
 Fully compliant with Riot Games' API policies. No memory reading or game file interference.
 
 完全遵循 Riot Games 官方 API 政策，不读取内存，不修改游戏文件。
 
-**Non-Custodial Design / 非托管设计**
+* **Non-Custodial Design / 非托管设计**
 
 Your credentials stay private. We only process the minimum data required for service.
 
